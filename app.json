@@ -31,10 +31,10 @@
     },
     "extra": {
       "bugsnag": {
-        "apiKey": "{YOUROWN}"
+        "apiKey": "83189bcd8ecfe6f4881c5b4b81bffdd0"
       },
       "eas": {
-        "projectId": "{YOUROWN}"
+        "projectId": "dfb18cf8-5f4e-42f7-97c2-3b226025015e"
       }
     },
     "hooks": {
@@ -46,7 +46,7 @@
       ]
     },
     "updates": {
-      "url": "{YOUROWN}"
+      "url": "https://u.expo.dev/dfb18cf8-5f4e-42f7-97c2-3b226025015e"
     }
   }
 }
